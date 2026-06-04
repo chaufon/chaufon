@@ -3,6 +3,8 @@
 I'm a Senior Backend Engineer with 15+ years of building scalable contact-center/VoIP technology, 
 delivering Python/Django web systems and on-premise AI solutions.
 
+I'm also co-founder of Globalip (Asterisk IP-telephony) and Product Owner of c3.pe 
+(omnichannel contact-center SaaS).
 
 ---
 
